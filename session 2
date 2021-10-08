@@ -1,5 +1,6 @@
 def fun(a,b):
-    return "hello"
+    return "Carminho"
+
 
 def fun2(a,b):
     return a * b
